@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Respostas IA",
+  "description": "Um aplicativo da web que usa a API Gemini para gerar respostas inteligentes para as perguntas do usuário.",
+  "requestFramePermissions": []
+}
